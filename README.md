@@ -1,4 +1,4 @@
-💱 Currency Converter
+# Currency Converter
 A fast, responsive currency converter web app that allows users to convert between 150+ world currencies in real time. Built with clean HTML, CSS, and JavaScript, this app uses the Fawaz Ahmed Currency API to deliver live exchange rates with country flags and a simple UI.
 
 👉 Live Demo: https://madhu-currency-converter.netlify.app/
