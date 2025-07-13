@@ -1,57 +1,66 @@
-# Currency Converter
-A fast, responsive currency converter web app that allows users to convert between 150+ world currencies in real time. Built with clean HTML, CSS, and JavaScript, this app uses the Fawaz Ahmed Currency API to deliver live exchange rates with country flags and a simple UI.
+# 💱 Currency Converter
 
-👉 Live Demo: https://madhu-currency-converter.netlify.app/
+A fast, responsive, and clean currency converter web app that allows users to convert between 150+ world currencies in real time. Built with **HTML**, **CSS**, and **JavaScript**, and powered by the **Fawaz Ahmed Currency API**, this app also displays dynamic country flags and includes a user-friendly interface.
 
-📸 Preview
-<img width="1550" height="852" alt="Curr conveter" src="https://github.com/user-attachments/assets/bdc9f286-b873-4b54-9556-67ac68ac1e04" />
+👉 **Live Demo:** [https://madhu-currency-converter.netlify.app/](https://madhu-currency-converter.netlify.app/)
 
-<!-- Replace with your actual image link or GitHub asset -->
+---
 
-🔧 Features
-🔢 Real-time currency conversion
-🌍 Supports 150+ global currencies
-🇺🇸 Country flag updates based on selected currency
-🔁 One-click swap for "From" and "To" selections
-📱 Responsive UI for mobile and desktop
-🎯 Smart default selection (USD → INR)
-📉 Graceful error handling and loading messages
+## 📸 Preview
 
-🚀 Tech Stack
-HTML5
+![Currency Converter Screenshot](https://github.com/user-attachments/assets/bdc9f286-b873-4b54-9556-67ac68ac1e04)
 
-CSS3 (Flexbox, responsive design)
+---
 
-JavaScript (Vanilla)
+## 🔧 Features
 
-Fawaz Ahmed Currency API
+- 🔢 Real-time currency conversion  
+- 🌍 Supports 150+ global currencies  
+-  Dynamic country flag updates based on selected currencies  
+- 🔁 One-click swap for “From” and “To” currencies  
+- 📱 Responsive UI for desktop and mobile  
+- 🎯 Default conversion from USD to INR  
+- 📉 Error handling and smooth feedback messages  
 
-Font Awesome for icons
+---
 
-FlagsAPI for dynamic country flag rendering
+## 🚀 Tech Stack
 
-🔑 API Used
-Fawaz Ahmed Currency API
-Fetched via jsDelivr CDN:
-https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies
+- **HTML5**  
+- **CSS3** (Flexbox, responsive design)  
+- **JavaScript (Vanilla)**  
+- **Fawaz Ahmed Currency API**  
+- **Font Awesome** for icons  
+- **FlagsAPI** for flag rendering  
 
-No API key required – ideal for beginner and personal projects.
+---
 
-📂 Project Structure
-bash
-Copy
-Edit
+## 🔑 API Used
+
+- **[Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api)**  
+  API fetched via jsDelivr CDN:  
+  `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies`  
+  No API key required — ideal for lightweight apps and learning projects.
+
+---
+
+## 📂 Project Structure
+
 📦 Currency-Converter-WebApp
-├── index.html          # Main structure
-├── style.css           # Styling and layout
-├── script.js           # Functionality and logic
-├── codes.js            # Currency to country code mapping
+├── index.html
+├── style.css
+├── script.js
+├── codes.js
 └── README.md
-✅ Fully optimized for all devices
-✅ Uses CDN-based API and can be extended easily
-✅ Beginner-friendly code with clean structure
 
-🌐 Author
-Madhukumar Kareti
+---
 
-📫 Connect on LinkedIn: www.linkedin.com/in/madhukumar-kareti-b59155275
+✅ Fully optimized for desktop, tablet, and mobile  
+✅ Beginner-friendly code with modular structure  
+✅ Easy to extend with custom styles or APIs  
+
+---
+
+🌐 **Author:** Madhukumar Kareti
+
+📫 **Connect on LinkedIn:** https://www.linkedin.com/in/madhukumar-kareti-b59155
