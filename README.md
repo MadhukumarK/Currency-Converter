@@ -63,4 +63,5 @@ A fast, responsive, and clean currency converter web app that allows users to co
 
 🌐 **Author:** Madhukumar Kareti
 
-📫 **Connect on LinkedIn:** https://www.linkedin.com/in/madhukumar-kareti-b59155
+📫 Connect on LinkedIn :  [www.linkedin.com/in/madhukumar-kareti-b59155275](https://www.linkedin.com/in/madhukumar-kareti-b59155275/)
+
